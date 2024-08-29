@@ -1,0 +1,19 @@
+/* styles.css */
+.Link {
+    color: aqua;
+    background-color: rgb(214, 191, 236);
+}
+.Title{
+color: darkcyan;
+}
+
+.Description {
+color: crimson;
+}
+
+.Steps {
+color: fuchsia;
+}
+.Ingredients {
+color: lawngreen;
+}
